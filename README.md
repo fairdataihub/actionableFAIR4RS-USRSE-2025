@@ -8,7 +8,7 @@
 
 ## About
 
-This repository contains the material and information associated with our talk and poster presentation at the 3rd Annual Conference of the US Research Software Engineer Associate (US-RSE 2025). We are introducing the Actionable Guidelines for FAIR Research Software (Actionable FAIR4RS) Task Force. The Task Force was initiated in December 2024 under the Research Software Alliance (ReSA). It is aiming to build upon our FAIR Biomedical Research Software (FAIR-BioRS) guidelines and establish actionble guidelines for making any research software FAIR (Findable, Accessible, Interoperable, Reusable) in line with the FAIR4RS principles.
+This repository contains the material and information associated with our talk and poster presentation at the 3rd Annual Conference of the US Research Software Engineer Associate (US-RSE 2025). We are introducing the Actionable Guidelines for FAIR Research Software (Actionable FAIR4RS) Task Force. The Task Force was initiated in December 2024 under the Research Software Alliance (ReSA). It is aiming to build upon our FAIR Biomedical Research Software (FAIR-BioRS) guidelines and establish actionble guidelines for making any research software FAIR (Findable, Accessible, Interoperable, Reusable) in line with the FAIR4RS principles. 
 
 **Abstract**: 
 
