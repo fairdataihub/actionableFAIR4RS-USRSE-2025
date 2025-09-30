@@ -35,7 +35,7 @@ Poster:
 
 ## Resources
 
-We list here major resources relevant to our talk.
+We list here major resources relevant to our talk and poster.
 
 | Description                                         | Link                                                              |
 | --------------------------------------------------  | ----------------------------------------------------------------- |
