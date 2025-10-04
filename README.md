@@ -31,7 +31,7 @@ Talk:
 - [USRSE25-Abtract-Actionable-FAIR4RS-TF.pdf](USRSE25-Abtract-Actionable-FAIR4RS-TF.pdf): Long abstract submitted for for our talk.
 
 Poster:
-- [USRSE25-Poster-Actionable-FAIR4RS-TF.pdf](USRSE25-Talk-Actionable-FAIR4RS-TF.pdf): our poster, also available on Zenodo at [ADD] 
+- [USRSE25-Poster-Actionable-FAIR4RS-TF.pdf](USRSE25-Poster-Actionable-FAIR4RS-TF.pdf): our poster, also available on Zenodo at [ADD] 
 
 ## Resources
 
